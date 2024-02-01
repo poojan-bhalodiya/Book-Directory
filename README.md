@@ -68,17 +68,17 @@ Read All Directory.
 
 ### Add Directory
 
-![image](https://github.com/poojan-bhalodiya/Book-Directory/assets/120900697/90d80871-dce4-41b4-9b45-2eebd151f353)
+![image](https://res.cloudinary.com/dhntmsget/image/upload/v1706797085/Projects/Book-Directory/Screen%20Shorts/Add%20directory.png)
 
 
 ### Read Directory
 
-![image](https://github.com/poojan-bhalodiya/Book-Directory/assets/120900697/1012d5b8-b93d-400f-a69d-8427fd02cb0a)
+![image](https://res.cloudinary.com/dhntmsget/image/upload/v1706797140/Projects/Book-Directory/Screen%20Shorts/Readdirectory.png)
 
 ### Update Directory
 
-![image](https://github.com/poojan-bhalodiya/Book-Directory/assets/120900697/21400b86-ca9d-41bd-8223-12bc1d1228ac)
+![image](https://res.cloudinary.com/dhntmsget/image/upload/v1706797198/Projects/Book-Directory/Screen%20Shorts/upload.png)
 
 ### Delete Directory
 
-![image](https://github.com/poojan-bhalodiya/Book-Directory/assets/120900697/0814097e-b2c5-42c6-a3e1-3c20b2a5db7e)
+![image](https://res.cloudinary.com/dhntmsget/image/upload/v1706797247/Projects/Book-Directory/Screen%20Shorts/DELETe.png)
